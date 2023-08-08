@@ -33,7 +33,7 @@ if (setupTime == null) {
             '<li>Taustamuusika</li>'+
             '<li>Helipuldi nupud õiged</li>' +
             '<li>Lavamikrofonide asetus kontrollida</li>' +
-            '<li>3 telekat</li>' +
+            '<li>4 telekat</li>' +
             '<li>Raadiomikrite saatja ja heliparandi sisse</li>' +
             '<li>Kontrolli taimerit (restardi taimeri kontrolleri kapis, kui ei tööta)</li>' +
             '<li>Ventilatsioon</li>' +
