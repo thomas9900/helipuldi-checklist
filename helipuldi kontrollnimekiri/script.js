@@ -33,17 +33,17 @@ if (setupTime == null) {
             '<li>Taustamuusika</li>'+
             '<li>Helipuldi nupud õiged</li>' +
             '<li>Lavamikrofonide asetus kontrollida</li>' +
-            '<li>4 telekat</li>' +
+            '<li>4 telekat, kõrvalsaali heli sisse</li>' +
             '<li>Raadiomikrite saatja ja heliparandi sisse</li>' +
             '<li>Kontrolli taimerit (restardi taimeri kontrolleri kapis, kui ei tööta)</li>' +
             '<li>Ventilatsioon</li>' +
             '<li>Taustamuusika kinni 2min enne algust</li>' +
             '<h2>Zoom</h2>' +
             '<li>Teenindaja määrata co-hostiks</li>' +
-            '<li>Kell :56 share video sisse</li>' +
+            '<li>Kell :56 share video sisse (share screen>advanced>videos)</li>' +
             '<li>Kell :58 share video välja</li>' +
             '<li>Pilt ja heli sisse</li>' +
-            '<li>Spotlight</li>' +
+            '<li>Spotlight (saali zoom)</li>' +
             '<h2>Koosoleku alguses </h2>' +
             '<li>Mikrofonid sisse</li>' +
             '<li>Laul käima, JW Library > Koosolek > Meedia</li>' +
